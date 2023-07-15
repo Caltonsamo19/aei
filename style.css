@@ -1,0 +1,24 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+ 
+
+
+.formulario{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.formulario label{
+    font-weight: bolder;
+    
+}
+
+.formulario input{
+    border: solid 10px;
+    border-radius: 10px;
+    border-color: black;
+}
